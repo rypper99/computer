@@ -54,7 +54,7 @@ p {
   color: black;
 }
 table, th, td {
-  border:0px solid black;
+  border:1px solid black;
 }
 .page-header {
   position: -webkit-sticky; /* Safari */
@@ -228,6 +228,7 @@ table, th, td {
 
 .content-table td {
   border:1px solid black;
+  vertical-align: top;
 }
 
 .food {
