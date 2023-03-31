@@ -198,10 +198,9 @@ table, th, td {
 
 .content-table caption {
   vertical-align:"bottom";
-  background-color: white;
-  color: rgb(55, 10, 204);
+  background-color: black;
+  color: white;
   text-align: left;
-  font-size: larger;
 }
 
 .content-table a:link {
