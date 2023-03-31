@@ -199,7 +199,7 @@ table, th, td {
 .content-table caption {
   vertical-align:"bottom";
   background-color: white;
-  color: yellow;
+  color: rgb(55, 10, 204);
   text-align: left;
   font-size: larger;
 }
