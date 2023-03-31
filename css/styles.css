@@ -191,12 +191,12 @@ table, th, td {
 }
 
 
-.fund-table {
+.content-table {
   width:100%;
   margin-top: 5px;
 }
 
-.fund-table caption {
+.content-table caption {
   vertical-align:"bottom";
   background-color: white;
   color: yellow;
@@ -204,29 +204,29 @@ table, th, td {
   font-size: larger;
 }
 
-.fund-table a:link {
+.content-table a:link {
   background-color: transparent;
   text-decoration: none;
   }
 
-.fund-table a:visited {
+.content-table a:visited {
   background-color: transparent;
   text-decoration: none;
   }
 
-.fund-table a:hover {
+.content-table a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
 }
 
-.fund-table th {
+.content-table th {
   border:1px solid black;
   background-color: rgb(173, 168, 168);
   color: white;
 }
 
-.fund-table td {
+.content-table td {
   border:1px solid black;
 }
 
